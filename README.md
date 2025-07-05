@@ -13,3 +13,5 @@ SpriteKit is Apple’s native 2D game framework, offering high-level APIs for gr
 
 - **macOS 15.5** or later
 - **Xcode 16.4**
+
+![Game preview](game.png)

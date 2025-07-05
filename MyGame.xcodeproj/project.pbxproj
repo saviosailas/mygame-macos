@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		859A60CD2E18F6E4003127F8 /* MyGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		859A60E52E190265003127F8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		85CA85962E196A1C002105F2 /* game.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = game.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -35,6 +36,7 @@
 			children = (
 				859A60CF2E18F6E4003127F8 /* MyGame */,
 				859A60E52E190265003127F8 /* README.md */,
+				85CA85962E196A1C002105F2 /* game.png */,
 				859A60CE2E18F6E4003127F8 /* Products */,
 			);
 			sourceTree = "<group>";
